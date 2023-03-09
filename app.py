@@ -1,5 +1,6 @@
 from flask import Flask,render_template,request,redirect
 import numpy as np
+import pymysql
 import pickle
 from sqlalchemy import text
 from sqlalchemy import create_engine

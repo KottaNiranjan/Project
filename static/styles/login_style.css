@@ -1,0 +1,13 @@
+
+    
+body{
+    background-image: url("../static/kid.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+form{
+    text-align: center;
+
+}
+
